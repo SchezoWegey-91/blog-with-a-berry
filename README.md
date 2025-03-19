@@ -1,2 +1,3 @@
-# berrywithablog
-This is my 3rd attempt on making a personal website
+# blog with a berry
+Omg I finally did it!
+I am so tired rn. I should finish studying for finals but I really wanna make my first blog post rn.
