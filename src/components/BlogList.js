@@ -1,15 +1,21 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { marked } from 'marked'; // You'll need to install this: npm install marked
+// Remove the unused import
+// import { marked } from 'marked';
 
 function BlogList() {
   const [posts, setPosts] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // This assumes you have a posts.json file that lists all your blog posts
-    fetch('/blog-posts/posts.json')
-      .then(response => response.json())
+    // Updated fetch with process.env.PUBLIC_URL for GitHub Pages compatibility
+    fetch(`${process.env.PUBLIC_URL}/blog-posts/posts.json`)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        return response.json();
+      })
       .then(data => {
         setPosts(data);
         setLoading(false);
@@ -22,6 +28,18 @@ function BlogList() {
 
   if (loading) {
     return <div className="text-center p-8">Loading posts...</div>;
+  }
+
+  // Add a message if no posts are found
+  if (posts.length === 0) {
+    return (
+      <div className="max-w-4xl mx-auto p-4">
+        <h1 className="text-3xl font-bold mb-8">My Blog</h1>
+        <div className="text-center p-8 border rounded-lg">
+          No blog posts found. Check the console for potential fetch errors.
+        </div>
+      </div>
+    );
   }
 
   return (

@@ -1,13 +1,10 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import BlogList from './components/BlogList';
 import BlogPost from './components/BlogPost';
 import './App.css';
-import Header from './components/Header';
 import About from './components/About';
-import Projects from './components/Projects';
 import Contact from './components/Contact';
-import Footer from './components/Footer';
 
 function App() {
   return (
@@ -32,6 +29,7 @@ function App() {
             <Route path="/blog" element={<BlogList />} />
             <Route path="/blog/:id" element={<BlogPost />} />
             <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
         
