@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/blog-with-a-berry/static/css/main.93439fee.chunk.css",
-    "main.js": "/blog-with-a-berry/static/js/main.cfd23fe7.chunk.js",
-    "main.js.map": "/blog-with-a-berry/static/js/main.cfd23fe7.chunk.js.map",
-    "runtime-main.js": "/blog-with-a-berry/static/js/runtime-main.b76628ed.js",
-    "runtime-main.js.map": "/blog-with-a-berry/static/js/runtime-main.b76628ed.js.map",
-    "static/js/2.4cb3d598.chunk.js": "/blog-with-a-berry/static/js/2.4cb3d598.chunk.js",
-    "static/js/2.4cb3d598.chunk.js.map": "/blog-with-a-berry/static/js/2.4cb3d598.chunk.js.map",
-    "static/js/3.353f0d46.chunk.js": "/blog-with-a-berry/static/js/3.353f0d46.chunk.js",
-    "static/js/3.353f0d46.chunk.js.map": "/blog-with-a-berry/static/js/3.353f0d46.chunk.js.map",
-    "index.html": "/blog-with-a-berry/index.html",
-    "precache-manifest.1081ddd1aa234ef8e08bfb7135b25a54.js": "/blog-with-a-berry/precache-manifest.1081ddd1aa234ef8e08bfb7135b25a54.js",
-    "service-worker.js": "/blog-with-a-berry/service-worker.js",
-    "static/css/main.93439fee.chunk.css.map": "/blog-with-a-berry/static/css/main.93439fee.chunk.css.map",
-    "static/js/2.4cb3d598.chunk.js.LICENSE.txt": "/blog-with-a-berry/static/js/2.4cb3d598.chunk.js.LICENSE.txt"
+    "main.css": "/blog-with-a-berry/build/blog-posts/static/css/main.93439fee.chunk.css",
+    "main.js": "/blog-with-a-berry/build/blog-posts/static/js/main.cfd23fe7.chunk.js",
+    "main.js.map": "/blog-with-a-berry/build/blog-posts/static/js/main.cfd23fe7.chunk.js.map",
+    "runtime-main.js": "/blog-with-a-berry/build/blog-posts/static/js/runtime-main.c2de6f1a.js",
+    "runtime-main.js.map": "/blog-with-a-berry/build/blog-posts/static/js/runtime-main.c2de6f1a.js.map",
+    "static/js/2.4cb3d598.chunk.js": "/blog-with-a-berry/build/blog-posts/static/js/2.4cb3d598.chunk.js",
+    "static/js/2.4cb3d598.chunk.js.map": "/blog-with-a-berry/build/blog-posts/static/js/2.4cb3d598.chunk.js.map",
+    "static/js/3.353f0d46.chunk.js": "/blog-with-a-berry/build/blog-posts/static/js/3.353f0d46.chunk.js",
+    "static/js/3.353f0d46.chunk.js.map": "/blog-with-a-berry/build/blog-posts/static/js/3.353f0d46.chunk.js.map",
+    "index.html": "/blog-with-a-berry/build/blog-posts/index.html",
+    "precache-manifest.a5c75192ed3fa498b3cf194ce27ee14b.js": "/blog-with-a-berry/build/blog-posts/precache-manifest.a5c75192ed3fa498b3cf194ce27ee14b.js",
+    "service-worker.js": "/blog-with-a-berry/build/blog-posts/service-worker.js",
+    "static/css/main.93439fee.chunk.css.map": "/blog-with-a-berry/build/blog-posts/static/css/main.93439fee.chunk.css.map",
+    "static/js/2.4cb3d598.chunk.js.LICENSE.txt": "/blog-with-a-berry/build/blog-posts/static/js/2.4cb3d598.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b76628ed.js",
+    "static/js/runtime-main.c2de6f1a.js",
     "static/js/2.4cb3d598.chunk.js",
     "static/css/main.93439fee.chunk.css",
     "static/js/main.cfd23fe7.chunk.js"
