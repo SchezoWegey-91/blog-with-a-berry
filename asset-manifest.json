@@ -5,19 +5,19 @@
     "main.js.map": "/blog-with-a-berry/static/js/main.942a87d7.chunk.js.map",
     "runtime-main.js": "/blog-with-a-berry/static/js/runtime-main.b76628ed.js",
     "runtime-main.js.map": "/blog-with-a-berry/static/js/runtime-main.b76628ed.js.map",
-    "static/js/2.f0ec5a54.chunk.js": "/blog-with-a-berry/static/js/2.f0ec5a54.chunk.js",
-    "static/js/2.f0ec5a54.chunk.js.map": "/blog-with-a-berry/static/js/2.f0ec5a54.chunk.js.map",
+    "static/js/2.d73cf70f.chunk.js": "/blog-with-a-berry/static/js/2.d73cf70f.chunk.js",
+    "static/js/2.d73cf70f.chunk.js.map": "/blog-with-a-berry/static/js/2.d73cf70f.chunk.js.map",
     "static/js/3.353f0d46.chunk.js": "/blog-with-a-berry/static/js/3.353f0d46.chunk.js",
     "static/js/3.353f0d46.chunk.js.map": "/blog-with-a-berry/static/js/3.353f0d46.chunk.js.map",
     "index.html": "/blog-with-a-berry/index.html",
-    "precache-manifest.f0ee4a06efe7baf4481952be7b1c12f6.js": "/blog-with-a-berry/precache-manifest.f0ee4a06efe7baf4481952be7b1c12f6.js",
+    "precache-manifest.3fcd74bfedaa69a1acb21f6e9a12a564.js": "/blog-with-a-berry/precache-manifest.3fcd74bfedaa69a1acb21f6e9a12a564.js",
     "service-worker.js": "/blog-with-a-berry/service-worker.js",
     "static/css/main.93439fee.chunk.css.map": "/blog-with-a-berry/static/css/main.93439fee.chunk.css.map",
-    "static/js/2.f0ec5a54.chunk.js.LICENSE.txt": "/blog-with-a-berry/static/js/2.f0ec5a54.chunk.js.LICENSE.txt"
+    "static/js/2.d73cf70f.chunk.js.LICENSE.txt": "/blog-with-a-berry/static/js/2.d73cf70f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b76628ed.js",
-    "static/js/2.f0ec5a54.chunk.js",
+    "static/js/2.d73cf70f.chunk.js",
     "static/css/main.93439fee.chunk.css",
     "static/js/main.942a87d7.chunk.js"
   ]
