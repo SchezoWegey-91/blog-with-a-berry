@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blog-with-a-berry/precache-manifest.3fcd74bfedaa69a1acb21f6e9a12a564.js"
+  "/blog-with-a-berry/precache-manifest.f0ee4a06efe7baf4481952be7b1c12f6.js"
 );
 
 self.addEventListener('message', (event) => {
