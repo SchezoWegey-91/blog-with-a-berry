@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08dbbfef062d031b3aad64f3e9cf087e",
+    "revision": "110858b95cc15667f0b72afbf6be612b",
     "url": "/blog-with-a-berry/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog-with-a-berry/static/css/main.93439fee.chunk.css"
   },
   {
-    "revision": "ec79d0e2f111c02f7db2",
-    "url": "/blog-with-a-berry/static/js/2.f0ec5a54.chunk.js"
+    "revision": "7c6b03dbb639c18d459a",
+    "url": "/blog-with-a-berry/static/js/2.d73cf70f.chunk.js"
   },
   {
     "revision": "1aef9e0d481a6908c30509eb88500877",
-    "url": "/blog-with-a-berry/static/js/2.f0ec5a54.chunk.js.LICENSE.txt"
+    "url": "/blog-with-a-berry/static/js/2.d73cf70f.chunk.js.LICENSE.txt"
   },
   {
     "revision": "cef8f0d16d7caa1d05b8",
