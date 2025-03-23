@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blog-with-a-berry/static/css/main.c6caa14b.css",
+    "main.js": "/blog-with-a-berry/static/js/main.4afbc9ee.js",
+    "static/js/453.ede2c593.chunk.js": "/blog-with-a-berry/static/js/453.ede2c593.chunk.js",
+    "index.html": "/blog-with-a-berry/index.html",
+    "main.c6caa14b.css.map": "/blog-with-a-berry/static/css/main.c6caa14b.css.map",
+    "main.4afbc9ee.js.map": "/blog-with-a-berry/static/js/main.4afbc9ee.js.map",
+    "453.ede2c593.chunk.js.map": "/blog-with-a-berry/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6caa14b.css",
+    "static/js/main.4afbc9ee.js"
+  ]
+}
